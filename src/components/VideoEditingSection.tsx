@@ -1,7 +1,7 @@
 import { Film, MessageCircle, Folder } from "lucide-react";
 
 const WHATSAPP_LINK = "https://wa.me/5589999263471?text=Ol%C3%A1%2C%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20de%20edi%C3%A7%C3%A3o%20de%20v%C3%ADdeos!";
-const PORTFOLIO_LINK = "https://drive.google.com/drive/folders/1WKjSTaB46ICCxO_W6ZhICeV7bINg_YnZ?usp=sharing";
+const PORTFOLIO_LINK = "https://drive.google.com/drive/folders/1a3ncdX8bogRbVNvPUkBK4qoehGF4QsML?usp=sharing";
 
 const services = [
   "Edição de vídeos",
