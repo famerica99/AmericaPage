@@ -1,0 +1,16 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" rx="60" fill="#FF0000"/>
+  <defs>
+    <linearGradient id="ytGradient" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF0000" />
+      <stop offset="1" stop-color="#C40000" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="675" rx="60" fill="url(#ytGradient)" opacity="0.95"/>
+  <rect x="180" y="150" width="840" height="360" rx="40" fill="white" opacity="0.15" />
+  <path d="M500 280L650 342L500 404V280Z" fill="white" />
+  <text x="50%" y="100" text-anchor="middle" fill="white" font-size="72" font-family="Inter, sans-serif" font-weight="800">YouTube</text>
+  <rect x="160" y="440" width="880" height="160" rx="32" fill="rgba(0,0,0,0.18)" />
+  <text x="50%" y="510" text-anchor="middle" fill="white" font-size="36" font-family="Inter, sans-serif" font-weight="700">Canal Felipe América</text>
+  <text x="50%" y="560" text-anchor="middle" fill="white" font-size="24" font-family="Inter, sans-serif" fill-opacity="0.85">Vídeos, entrevistas e apresentações</text>
+</svg>

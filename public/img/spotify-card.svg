@@ -1,0 +1,19 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" rx="60" fill="#1DB954"/>
+  <defs>
+    <linearGradient id="spotifyGradient" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1ED760" />
+      <stop offset="1" stop-color="#1AA34A" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="675" rx="60" fill="url(#spotifyGradient)" opacity="0.95"/>
+  <circle cx="240" cy="240" r="140" fill="rgba(255,255,255,0.16)" />
+  <circle cx="300" cy="270" r="100" fill="rgba(255,255,255,0.1)" />
+  <path d="M320 210C358 214 390 226 420 246C462 272 470 320 442 350" stroke="white" stroke-width="24" stroke-linecap="round" opacity="0.9"/>
+  <path d="M320 280C362 286 398 302 428 330C478 378 478 438 421 480" stroke="white" stroke-width="24" stroke-linecap="round" opacity="0.85"/>
+  <path d="M320 350C365 356 403 374 438 405C478 442 478 510 429 551" stroke="white" stroke-width="24" stroke-linecap="round" opacity="0.75"/>
+  <text x="50%" y="100" text-anchor="middle" fill="white" font-size="72" font-family="Inter, sans-serif" font-weight="800">Spotify</text>
+  <rect x="160" y="400" width="880" height="170" rx="32" fill="rgba(0,0,0,0.12)" />
+  <text x="50%" y="465" text-anchor="middle" fill="white" font-size="38" font-family="Inter, sans-serif" font-weight="700">Música e conexões</text>
+  <text x="50%" y="520" text-anchor="middle" fill="white" font-size="24" font-family="Inter, sans-serif" fill-opacity="0.85">Ouça o canal oficial</text>
+</svg>
